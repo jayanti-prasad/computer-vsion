@@ -12,10 +12,10 @@ In this repository, I plan to host a set of Jupyter notebooks to process image d
 
 ## Required software:
 
-NumPy
-Matplotlib
-OpenCV
-Scikit-learn
+- NumPy
+- Matplotlib
+- OpenCV
+- Scikit-learn
 
 
 
